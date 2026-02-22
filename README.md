@@ -6,7 +6,7 @@
 - 📫 How to reach me:
   -   [Mastodon](https://vmst.io/@djwfyi)
   -   [LinkedIn](https://www.linkedin.com/in/daryljwhite/)
-  -   [Write the Docs Slack](https://www.writethedosc.org/slack/)
+  -   [Write the Docs Slack](https://www.writethedocs.org/slack/)
 
 <!---
 djwfyi/djwfyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
